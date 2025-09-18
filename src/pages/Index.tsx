@@ -83,7 +83,7 @@ const Index = () => {
           <div className="max-w-3xl">
             <h1 className="text-5xl md:text-7xl font-bold font-oswald text-white mb-6 leading-tight">
               МОЩЬ И
-              <span className="text-primary block">СКОРОСТЬ</span>
+              <span className="text-primary block">МАРКЕТ</span>
             </h1>
             <p className="text-xl text-muto-silver mb-8 max-w-2xl">
               Премиальная мототехника для настоящих ценителей. 
