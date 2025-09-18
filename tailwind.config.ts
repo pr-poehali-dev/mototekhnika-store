@@ -61,7 +61,19 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				moto: {
+					'dark': '#1A1A1A',
+					'charcoal': '#2D2D2D', 
+					'metal': '#808080',
+					'silver': '#C0C0C0',
+					'orange': '#FF4500'
 				}
+			},
+			fontFamily: {
+				'oswald': ['Oswald', 'sans-serif'],
+				'roboto': ['Roboto', 'sans-serif'],
+				'impact': ['Impact', 'Arial Black', 'sans-serif']
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
